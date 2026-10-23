@@ -1,10 +1,13 @@
 [project]
 name = "credit-risk-pd-modeling"
 version = "0.1.0"
-description = "Add your description here"
+description = "End-to-end credit risk analysis and Probability of Default (PD) modeling pipeline using SQL (SQlite), pandas and scikit-learn."
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
+    "ipykernel>=7.3.0",
+    "matplotlib>=3.10.9",
     "numpy>=2.2.6",
     "pandas>=2.3.3",
+    "scikit-learn>=1.7.2",
 ]

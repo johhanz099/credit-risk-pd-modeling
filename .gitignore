@@ -9,5 +9,12 @@ wheels/
 # Virtual environments
 .venv
 
-# Data
-data/
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Data & Databases
+data/*
+!data/.gitkeep
+*.db
+*.sqlite
+*.sqlite3
