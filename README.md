@@ -48,7 +48,7 @@ This project uses [uv](https://github.com/astral-sh/uv) for fast and determinist
 
 - [x] Project structure and deterministic environment setup (`uv`)
     
-- [ ] **Stage 1:** Relational schema creation and SQL extraction pipeline (`src/queries.sql`)
+- [x] **Stage 1:** Relational schema creation and SQL extraction pipeline (`src/queries.sql`)
     
 - [ ] **Stage 2:** Exploratory Data Analysis (EDA), outlier mitigation, and financial feature engineering
     
